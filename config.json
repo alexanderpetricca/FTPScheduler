@@ -1,0 +1,22 @@
+{
+    "uploadLocations" : {
+        "docs": {
+            "name": "Documents",
+            "local_folder": "Documents",
+            "upload_to": "Documents/"
+        },
+        "images": {
+            "name": "Images",
+            "local_folder": "Images",
+            "upload_to": "Images/"
+        },
+        "video": {
+            "name": "Video",
+            "local_folder": "Video",
+            "upload_to": "Video/"
+        }
+     
+    },
+    "schedule": "00:00",
+    "interval": 15
+}
